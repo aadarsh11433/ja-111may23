@@ -12,9 +12,9 @@ public class Course {
 	 void displayCourseDetails(Course c) {
 		
 		 //print cousrse deatila
-		 System.out.println(c.courseId);
-		 System.out.println(c.courseName);
-		 System.out.println(c.courseFee);
+		 System.out.println("courseid is "+c.courseId);
+		 System.out.println("coursename is"+c.courseName);
+		 System.out.println("coursefee is "+c.courseFee);
 	 }
 	
 	 
